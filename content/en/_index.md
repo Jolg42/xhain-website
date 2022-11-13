@@ -10,7 +10,7 @@ draft: false
 
 ## Open monday nights
 
-Come by, take a look and join in! Every Monday from 5pm until late at night in Grünberger Str. 16 in Berlin. Due to COVID-19 we currently meet outdoors only. Please read our <a href="https://wiki.x-hain.de/en/xHain/hygiene-konzept" target="_blank">hygiene concept</a>.
+Come by, take a look and join in! **Every Monday from 6pm until late at night in Grünberger Str. 16** in Berlin.
 
 <br clear="all">
 
@@ -28,13 +28,17 @@ Whether you're a hacker, maker, or just curious, you're welcome at xHain! It doe
 
 Our <a href="https://wiki.x-hain.de/en/xHain/xRoots" target="_blank">xRoots mentors</a> are here to help you get started, show you around at xHain, and answer your questions. If you have special needs or concerns, we will take care of them. Just look for people with the xRoots logo/badge on monday nights or talk to us in the <a href="https://chat.x-hain.de" target="_blank">chat</a>.
 
-xHain is a smoke-free place. If you want to smoke, you can do so outside. If you are an asshole, e.g. sexist, racist, or homophobic, don't bother coming. Please read and follow our <a href="https://wiki.x-hain.de/en/xHain/spacerules" target="_blank">space rules</a>. If you encounter problems or have suggestions, feel free to contact our <a href="https://wiki.x-hain.de/en/xHain/Awareness-Team" target="_blank">awareness team</a>.
+xHain is a smoke-free place. If you want to smoke, you can do so outside. If you are an asshole, e.g. sexist, racist, or homophobic, don't bother coming. Please read and follow our <a href="https://wiki.x-hain.de/en/xHain/spacerules" target="_blank">space rules</a>. 
 
 ## The space
 
 ![](/images/space-map.png)
 
 Find out what you can do at xHain on the [participate page](/en/participate).
+
+## Events
+
+Check out our <a href="/en/calendar">calendar</a> for upcoming events.
 
 ## Accessibility
 

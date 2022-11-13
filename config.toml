@@ -117,12 +117,18 @@ title = "Find us elsewhere"
 
 [[languages.de.menu.tools]]
   weight = 2
-  identifier = "rocketchat"
-  name = "Chat"
-  url = "https://chat.x-hain.de/home"
+  identifier = "calendar"
+  name = "Kalender"
+  url = "/calendar"
 
 [[languages.de.menu.tools]]
   weight = 3
+  identifier = "matrix"
+  name = "Chat"
+  url = "https://chat.x-hain.de"
+
+[[languages.de.menu.tools]]
+  weight = 4
   identifier = "wiki"
   name = "Wiki"
   url = "https://wiki.x-hain.de/"
@@ -135,12 +141,18 @@ title = "Find us elsewhere"
 
 [[languages.en.menu.tools]]
   weight = 2
-  identifier = "rocketchat"
-  name = "Chat"
-  url = "https://chat.x-hain.de/home"
+  identifier = "calendar"
+  name = "Calendar"
+  url = "/calendar"
 
 [[languages.en.menu.tools]]
   weight = 3
+  identifier = "matrix"
+  name = "Chat"
+  url = "https://chat.x-hain.de"
+
+[[languages.en.menu.tools]]
+  weight = 4
   identifier = "wiki"
   name = "Wiki"
   url = "https://wiki.x-hain.de/"
@@ -175,7 +187,7 @@ title = "Find us elsewhere"
   weight = 7
   identifier = "github"
   name = "Github"
-  url = "https://github.com/orgs/xHain-hackspace/"
+  url = "https://github.com/xHain-hackspace/"
 
 [[languages.de.menu.social]]
   weight = 5
@@ -211,7 +223,7 @@ title = "Find us elsewhere"
   weight = 7
   identifier = "github"
   name = "Github"
-  url = "https://github.com/orgs/xHain-hackspace/"
+  url = "https://github.com/xHain-hackspace/"
 
 
 ###### FOOTER MENU ######

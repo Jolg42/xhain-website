@@ -10,7 +10,7 @@ draft: false
 
 ## Offener Montag Abend
 
-Komm vorbei, schnupper rein und mach mit! Immer **Montags ab 17 Uhr bis in die Nacht in der Grünberger Str. 16** in Berlin. Aufgrund von COVID-19 finden derzeit unsere Aktivitäten nur draußen statt. Bitte lies dazu unser <a href="https://wiki.x-hain.de/de/xHain/hygiene-konzept" target="_blank">Hygiene-Konzept</a>.
+Komm vorbei, schnupper rein und mach mit! Immer **Montags ab 18 Uhr bis in die Nacht in der Grünberger Str. 16** in Berlin. 
 
 <br clear="all">
 
@@ -28,13 +28,17 @@ Ob Hacker:in, Maker:in oder einfach nur neugierig, ihr seid im xHain willkommen!
 
 Unsere <a href="https://wiki.x-hain.de/de/xHain/xRoots" target="_blank">xRoots Mentor:innen</a> sind für euch da: Wir erleichtern euch den Einstieg, zeigen euch den xHain und beantworten eure Fragen. Wenn ihr besondere Bedürfnisse oder Anliegen habt, dann kümmern wir uns darum. Halte einfach Montags nach Menschen mit dem xRoots Logo/Badge Ausschau oder sprich uns im <a href="https://chat.x-hain.de" target="_blank">Chat</a> an.
 
-Der xHain ist ein rauchfreier Ort. Wer rauchen will, kann das draußen tun. Wer ein Arschloch ist, z.B. sexistisch, rassistisch, oder homophob, braucht nicht zu kommen. Lest bitte und beachtet unsere <a href="https://wiki.x-hain.de/de/xHain/spacerules" target="_blank">Space-Regeln</a>. Wenn ihr auf Probleme stoßt oder Anregungen habt, dann wendet euch gerne an unser <a href="https://wiki.x-hain.de/de/xHain/Awareness-Team" target="_blank">Awareness-Team</a>.
+Der xHain ist ein rauchfreier Ort. Wer rauchen will, kann das draußen tun. Wer ein Arschloch ist, z.B. sexistisch, rassistisch, oder homophob, braucht nicht zu kommen. Lest bitte und beachtet unsere <a href="https://wiki.x-hain.de/de/xHain/spacerules" target="_blank">Space-Regeln</a>. 
 
 ## Der Space
 
 ![](/images/space-map.png)
 
 Finde heraus was man im xHain alles tun kann unter [mitmachen](/de/participate).
+
+## Veranstaltungen
+
+Informiere dich in unserem <a href="/de/calendar">Kalender</a> über anstehende Veranstaltungen.
 
 ## Barrieren
 
