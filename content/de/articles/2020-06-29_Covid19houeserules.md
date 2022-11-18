@@ -12,8 +12,6 @@ tags:
   - xhain
 ---
 
-<iframe width="100%" height="450" src="https://xhmm.mrhide.de/"></iframe>
-
 Hey ihr Lieben!
 
 Wir hoffen ihr habt die letzten Wochen alle halbwegs unbeschadet überstanden.
