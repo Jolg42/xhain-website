@@ -437,7 +437,7 @@ img.die_pfeile {
   }
 
   #main_wrap {
-    max-height: 90vh;
+    max-height: 100vh;
     overflow-y: scroll;
   }
 
