@@ -509,4 +509,13 @@ img.die_pfeile {
     font-size: 16px;
   }
 
+  .week_time::before {
+    width: 12px;
+    height: 12px;
+  }
+
+  body {
+    font-size: 12px;
+  }
+
 }
