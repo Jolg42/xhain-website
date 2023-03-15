@@ -22,10 +22,11 @@ draft: false
     text-align: center;
 }
 </style>
-<h1 class="xhain-important-fade">🚨🚨 Wir brauchen Hilfe! 🚨🚨</h1>
+<h2 class="xhain-important">🚨🚨 Wir brauchen Hilfe! 🚨🚨</h2>
 <h2 class="xhain-important">Mehr Infos gibt es im <a href="/de/blog/2023/02/27/xhain-braucht-hilfe">Blogpost</a></h2>
 
 <br clear="all">
+
 **Willkommen im xHain: Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches.**
 
 <br clear="all">

@@ -4,6 +4,9 @@ date: 2021-06-09T00:00:00Z
 draft: false
 ---
 
+
+
+
 <style>
 .xhain-important-fade {
     -webkit-animation: fadeinout 2s linear infinite;
@@ -23,10 +26,11 @@ draft: false
     text-align: center;
 }
 </style>
-<h1 class="xhain-important-fade">🚨🚨 We need help! 🚨🚨</h1>
+<h2 class="xhain-important">🚨🚨 We need help! 🚨🚨</h2>
 <h2 class="xhain-important">You can find more info in the <a href="/en/blog/2023/02/27/xhain-needs-help">Blogpost</a></h2>
 
-**Welcome to xHain: Hack- & Makespace in the heart of Friedrichshain, tinkering room for people interested in technology + space for net politics.**
+## Welcome to xHain
+**Hack- & Makespace in the heart of Friedrichshain, tinkering room for people interested in technology + space for net politics.**
 
 <br clear="all">
 
