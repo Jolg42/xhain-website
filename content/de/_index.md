@@ -7,6 +7,8 @@ draft: false
 .xhain-important {
     -webkit-animation: fadeinout 2s linear infinite;
     animation: fadeinout 2s linear infinite;
+    color: red;
+    text-align: center
     opacity: 0;
 }
 @-webkit-keyframes fadeinout {
