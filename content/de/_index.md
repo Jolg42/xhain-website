@@ -8,7 +8,7 @@ draft: false
     -webkit-animation: fadeinout 2s linear infinite;
     animation: fadeinout 2s linear infinite;
     color: red;
-    text-align: center
+    text-align: center;
     opacity: 0;
 }
 @-webkit-keyframes fadeinout {
@@ -18,7 +18,7 @@ draft: false
   50% { opacity: 1; }
 }
 </style>
-<h2 class="xhain-important">Wir brauchen Hilfe! Mehr Infos gibt es im <a href="/de/blog/2023/02/27/xhain-braucht-hilfe">Blogpost</a>!</h2>
+<h1 class="xhain-important">🚨🚨 Wir brauchen Hilfe! Mehr Infos gibt es im <a href="/de/blog/2023/02/27/xhain-braucht-hilfe">Blogpost</a> 🚨🚨</h1>
 
 <br clear="all">
 **Willkommen im xHain: Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches.**
