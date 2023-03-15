@@ -4,11 +4,29 @@ date: 2021-06-09T00:00:00Z
 draft: false
 ---
 
+<style>
+.xhain-important-fade {
+    -webkit-animation: fadeinout 2s linear infinite;
+    animation: fadeinout 2s linear infinite;
+    color: red;
+    text-align: center;
+    opacity: 0;
+}
+@-webkit-keyframes fadeinout {
+  50% { opacity: 1; }
+}
+@keyframes fadeinout {
+  50% { opacity: 1; }
+}
+.xhain-important {
+    color: red;
+    text-align: center;
+}
+</style>
+<h1 class="xhain-important-fade">🚨🚨 We need help! 🚨🚨</h1>
+<h2 class="xhain-important">You can find more info in the <a href="/en/blog/2023/02/27/xhain-needs-help">Blogpost</a></h2>
+
 **Welcome to xHain: Hack- & Makespace in the heart of Friedrichshain, tinkering room for people interested in technology + space for net politics.**
-
-## We need help
-
-Here you'll get all the info: <a href="/en/blog/2023/02/27/xhain-needs-help">Blogpost</a>
 
 <br clear="all">
 

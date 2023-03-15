@@ -20,7 +20,6 @@ draft: false
 .xhain-important {
     color: red;
     text-align: center;
-    opacity: 0;
 }
 </style>
 <h1 class="xhain-important-fade">🚨🚨 Wir brauchen Hilfe! 🚨🚨</h1>
