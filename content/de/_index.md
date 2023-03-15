@@ -3,7 +3,6 @@ title: "Willkommen im xHain"
 date: 2021-06-09T00:00:00Z
 draft: false
 ---
-{{ < rawhtml >}}
 <style>
 .xhain-important {
     -webkit-animation: fadeinout 2s linear infinite;
@@ -18,7 +17,6 @@ draft: false
 }
 </style>
 <h2 class="xhain-important">Wir brauchen Hilfe! Mehr Infos gibt es im <a href="/de/blog/2023/02/27/xhain-braucht-hilfe">Blogpost</a>!</h2>
-{{ < /rawhtml >}}
 
 <br clear="all">
 **Willkommen im xHain: Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches.**
