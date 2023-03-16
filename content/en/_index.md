@@ -26,7 +26,7 @@ draft: false
     text-align: center;
 }
 </style>
-<h2 class="xhain-important">🚨 We need help! 🚨</h2>
+<h2 class="xhain-important-fade">🚨 We need help! 🚨</h2>
 <h2 class="xhain-important">You can find more info in the <a href="/en/blog/2023/02/27/xhain-needs-help">Blogpost</a></h2>
 
 ## Welcome to xHain
