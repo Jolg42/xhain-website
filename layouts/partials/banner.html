@@ -61,10 +61,10 @@
 </style>
 
 <script>
-  var prevScrollpos = window.pageYOffset;
+  var initialScrollPos = window.pageYOffset;
   window.onscroll = function () {
     var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos < currentScrollPos) {
+    if (initialScrollPos < currentScrollPos - 200) {
       document.getElementById("banner").style.opacity = "0";
     } else if (window.pageYOffset == 0) {
       document.getElementById("banner").style.opacity = "1";
