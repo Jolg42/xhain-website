@@ -61,13 +61,13 @@
 </style>
 
 <script>
-  var initialScrollPos = window.pageYOffset;
+  let windowHeight = window.outerHeight;
+  const offsetFactor = 0.2;
   window.onscroll = function () {
     var currentScrollPos = window.pageYOffset;
-    const offset = 200;
-    if (initialScrollPos < currentScrollPos - offset) {
+    if (currentScrollPos > windowHeight * offsetFactor) {
       document.getElementById("banner").style.opacity = "0";
-    } else if (window.pageYOffset < offset) {
+    } else {
       document.getElementById("banner").style.opacity = "1";
     }
   } 
