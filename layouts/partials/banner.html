@@ -64,9 +64,10 @@
   var initialScrollPos = window.pageYOffset;
   window.onscroll = function () {
     var currentScrollPos = window.pageYOffset;
-    if (initialScrollPos < currentScrollPos - 200) {
+    const offset = 200;
+    if (initialScrollPos < currentScrollPos - offset) {
       document.getElementById("banner").style.opacity = "0";
-    } else if (window.pageYOffset == 0) {
+    } else if (window.pageYOffset < offset) {
       document.getElementById("banner").style.opacity = "1";
     }
   } 
