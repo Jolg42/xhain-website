@@ -61,10 +61,10 @@
 </style>
 
 <script>
-  var prevScrollpos = window.pageYOffset;
+  var initialScrollPos = window.pageYOffset;
   window.onscroll = function () {
     var currentScrollPos = window.pageYOffset;
-    if (prevScrollpos < currentScrollPos) {
+    if (initialScrollPos < currentScrollPos - 200) {
       document.getElementById("banner").style.opacity = "0";
     } else if (window.pageYOffset == 0) {
       document.getElementById("banner").style.opacity = "1";
@@ -76,11 +76,11 @@
   <div class="banner__content">
     <div class="banner__text">
       {{ if strings.Contains .Site.Language.Lang "en" }}
-      <h2 class="xhain-important">🚨 We need help! 🚨</h2>
+      <h2 class="xhain-important">We need help!</h2>
       <h2 class="xhain-important">You can find more info in the <a
           href="/en/blog/2023/02/27/xhain-needs-help">Blogpost</a></h2>
       {{ else }}
-      <h2 class="xhain-important">🚨 Wir brauchen Hilfe! 🚨</h2>
+      <h2 class="xhain-important">Wir brauchen Hilfe!</h2>
       <h2 class="xhain-important">Alle infos findest du im <a href="/en/blog/2023/02/27/xhain-needs-help">Blogpost</a>
       </h2>
 
