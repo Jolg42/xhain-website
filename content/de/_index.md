@@ -27,7 +27,8 @@ draft: false
 
 <br clear="all">
 
-**Willkommen im xHain: Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches.**
+## Willkommen im xHain 
+**Hack- & Makespace im Herzen von Friedrichshain, Bastelstube für Technikinteressierte + Raum für Netzpolitisches.**
 
 <br clear="all">
 
